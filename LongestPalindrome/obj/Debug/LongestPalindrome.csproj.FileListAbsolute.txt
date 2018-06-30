@@ -1,0 +1,6 @@
+C:\Users\bloveall\Documents\LearningProjects\LongestPalindrome\LongestPalindrome\bin\Debug\LongestPalindrome.exe.config
+C:\Users\bloveall\Documents\LearningProjects\LongestPalindrome\LongestPalindrome\bin\Debug\LongestPalindrome.exe
+C:\Users\bloveall\Documents\LearningProjects\LongestPalindrome\LongestPalindrome\bin\Debug\LongestPalindrome.pdb
+C:\Users\bloveall\Documents\LearningProjects\LongestPalindrome\LongestPalindrome\obj\Debug\LongestPalindrome.exe
+C:\Users\bloveall\Documents\LearningProjects\LongestPalindrome\LongestPalindrome\obj\Debug\LongestPalindrome.pdb
+C:\Users\bloveall\Documents\LearningProjects\LongestPalindrome\LongestPalindrome\obj\Debug\LongestPalindrome.csprojResolveAssemblyReference.cache

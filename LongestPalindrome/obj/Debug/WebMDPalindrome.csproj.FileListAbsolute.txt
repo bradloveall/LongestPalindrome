@@ -1,0 +1,6 @@
+C:\Users\bloveall\Documents\LearningProjects\WebMDPalindrome\WebMDPalindrome\bin\Debug\WebMDPalindrome.exe.config
+C:\Users\bloveall\Documents\LearningProjects\WebMDPalindrome\WebMDPalindrome\bin\Debug\WebMDPalindrome.exe
+C:\Users\bloveall\Documents\LearningProjects\WebMDPalindrome\WebMDPalindrome\bin\Debug\WebMDPalindrome.pdb
+C:\Users\bloveall\Documents\LearningProjects\WebMDPalindrome\WebMDPalindrome\obj\Debug\WebMDPalindrome.csprojResolveAssemblyReference.cache
+C:\Users\bloveall\Documents\LearningProjects\WebMDPalindrome\WebMDPalindrome\obj\Debug\WebMDPalindrome.exe
+C:\Users\bloveall\Documents\LearningProjects\WebMDPalindrome\WebMDPalindrome\obj\Debug\WebMDPalindrome.pdb
