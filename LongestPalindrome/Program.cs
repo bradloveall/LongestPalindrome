@@ -57,6 +57,11 @@ namespace WebMDPalindrome
             }
 
             return palindromeCount;
-        }    
+        }
+    
+        public void GitTest()
+        {
+
+        }
     }
 }
